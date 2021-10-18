@@ -6,3 +6,7 @@ Android构建MVP（Model View Presenter）模型项目架构，资料太多就�
 - Presenter 负责完成View于Model间的交互
 
 ![MVP视图](https://github.com/nansir/BaseMvp/blob/master/images/mvp.png)
+
+
+************* 2021/10/18 *************
+1，修改 build.gradle 文件的参数配置。
